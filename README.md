@@ -48,8 +48,3 @@ Steps are to be completed in the `app.js` file.
 
 Steps are to be completed in the `app.js` file.
 
-1. Declare a variable named `title` using the `let` keyword, and assign it the value `"Name of the Wind"` (string)
-2. Declare a variable named `author` using the `let` keyword, and assign it the value `"Patrick Rothfuss"` (string)
-3. Declare a variable named `pageCount` using the `let` keyword, and assign it the value `722` (number)
-4. Declare a variable named `bookmark` using the `let` keyword, and assign it the value `456` (number)
-5. Declare a variable named `hasRead` using the `let` keyword, and assign it the value `true` (boolean)
